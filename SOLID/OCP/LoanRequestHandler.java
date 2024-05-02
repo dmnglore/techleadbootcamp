@@ -1,6 +1,4 @@
-package com.craft.solid.OCP;
 
-import com.craft.solid.nonOCP.PersonalLoanValidator;
 
 public class LoanRequestHandler {
 	private int balance;

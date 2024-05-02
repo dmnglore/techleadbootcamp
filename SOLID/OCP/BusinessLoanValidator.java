@@ -1,4 +1,3 @@
-package com.craft.solid.OCP;
 
 public class BusinessLoanValidator {
 	
