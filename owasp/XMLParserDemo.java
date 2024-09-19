@@ -16,7 +16,7 @@ package com.craft.owasp;
 	                + "]>\n"
 	                + "<data>&xxe;</data>";
 
-	        // Attempt to parse the XML input with a vulnerable parser
+	        // Attempt to parse the XML input with a vulnerable parser and the 
 	        try {
 	            // Vulnerable DOM parser
 	            DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
